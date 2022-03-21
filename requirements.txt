@@ -1,0 +1,12 @@
+pylint
+requests
+numpy
+pandas
+matplotlib
+spacy
+openpyxl
+jaconv
+scipy
+scikit-learn
+jupyter
+

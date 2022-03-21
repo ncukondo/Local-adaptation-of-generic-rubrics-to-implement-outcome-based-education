@@ -1,0 +1,7 @@
+*secret*.json
+.env
+.envrc
+*.env
+temp
+__pycache__
+test_*

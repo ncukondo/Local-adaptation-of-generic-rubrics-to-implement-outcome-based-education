@@ -1,0 +1,69 @@
+ID,speaker,text
+C-3,interviewer,"Doctor, is it okay if I ask you to say something?"
+C-4,interviewee,Please do.
+C-5,interviewer,"First of all, as I mentioned earlier, this interview is about the evaluation chart and evaluation, but basically there is no right answer to what I am going to ask. So, it would be better if you could tell us frankly what you think, rather than trying to give us a specific answer. There are times when I will make a comment or ask what you mean, but this is not to correct you, but rather to learn more about your intentions, so please do not hesitate to tell me what you think. If you feel like taking a break or going to the bathroom, you can stop at any time, so please let me know. Are you okay?"
+C-6,interviewee,I'm fine.
+C-7,interviewer,Do you have any questions so far?
+C-8,interviewee,"No, not really."
+C-9,interviewer,"Yes, thank you very much. First of all, I'd like to share a little bit about your role and position in the Department of General Medicine."
+C-10,interviewee,"First of all, I am in my first year as a medical major, and my role is mainly to be a member of the ward that handles inpatients. In addition, I am also in charge of outpatient services in parallel, and the rest of my current role is to work outside the hospital on a set day and at a set time, that is, at other facilities or hospitals outside the hospital."
+C-11,interviewer,Thank you very much. What kind of relationship do you have with the residents?
+C-12,interviewee,"My relationship with residents is mainly when I work as a member of a ward that deals with inpatients, and we see the same patients together. That is to say, I am involved with the residents in deciding on the treatment plan and in thinking about the same problems from the same standpoint and perspective."
+C-13,interviewer,"Yes, thank you very much. How long have you been here now?"
+C-14,interviewee,"I have been at Nagoya University for 9 years since I was a student in 2012, and I have been a member of Nagoya University for 3 years since I became a doctor."
+C-15,interviewer,"Thank you very much. First of all, please tell me frankly what you think about evaluation."
+C-16,interviewee,Is it the evaluation of residents?
+C-17,interviewer,Evaluation in general is fine.
+C-18,interviewee,"When I say evaluation, I think of it as an honest answer to how others see an event or an action. Sometimes there is room for personal feelings, busyness at the time, and other factors, but I believe that it is a matter of writing what the person feels or thinks as it is, and evaluating it as it is."
+C-19,interviewer,"Thank you very much. Specifically, you mentioned earlier about the residents and your own evaluation."
+C-20,interviewee,"Basically, I was involved in the evaluation of polyclinics for residents and students. As a resident, I would like to sum up my daily work, or rather, I would like to know what kind of things you have grown through the four to eight weeks of training, what kind of difficulties you have faced, and what kind of things you have learned. I ask them what they struggled with before, what they learned, and so on."
+C-21,interviewer,"Yes, thank you very much. What kind of evaluations have you done?"
+C-22,interviewee,"When I was a resident, I received the same kind of evaluation from my senior doctors, i.e., I was able to express my growth and difficulties during the four to eight weeks of training. In my current position, I still receive feedback from my senior doctors about the events that occurred that day, and they also tell me that I should correct things that need to be corrected."
+C-23,interviewer,Thank you very much. Is there anything in particular that you would like to add about evaluation in general?
+C-24,interviewee,"If I had to say something about evaluation in general, I would say that it tends to be a five-point evaluation or a six-point evaluation, and we tend to be hesitant to give too bad a rating or too good a rating."
+C-25,interviewer,"I see. By the way, why are you dissatisfied with that?"
+C-26,interviewee,"Even though the evaluations don't directly reach the eyes of the resident doctors, I feel that if I give them a bad evaluation, it might make them feel bad. There are times when I hesitate to give the best evaluation, but I am not sure if that is the right evaluation. In that sense, there are times when I hesitate to give the best evaluation."
+C-27,interviewer,"I see. I see. Now, this is the first thing that the teacher did for the evaluation chart. First of all, can I ask for your impressions or comments about this evaluation chart?"
+C-28,interviewee,"I always think that the evaluation is done from various angles, such as medical aspects, human relations, institutional aspects, legal aspects, and so on."
+C-29,interviewee,"There are some things that I think are difficult to observe in this short period of time, but in general, I think the evaluation is well-balanced."
+C-30,interviewer,What do you do when you don't have a chance to observe?
+C-31,interviewee,"I check the box that says ""no opportunity for observation,"" or I sometimes give a rating somewhere in the middle as a kind of complication."
+C-32,interviewer,I see. What do you like about this evaluation chart?
+C-33,interviewee,"I think the good thing is that the level 1, 2, and 3 are not subjective, but rather, they clearly state the specific goals to be achieved."
+C-34,interviewer,"Thank you very much. On the other hand, is there anything that you find difficult or anything that you would like to see done better?"
+C-35,interviewee,"Perhaps it is because we don't have much contact with community medicine and other areas at university hospitals, but no matter how many times I have to do the same evaluation, I still stumble in the community medicine section, or I often feel that I cannot fully evaluate this."
+C-36,interviewer,"Thank you very much. This evaluation chart is largely divided into these two sections, but do you feel that there are any differences between them, or do you think that they are all the same?"
+C-37,interviewee,"I don't really feel that way, but I think that 1 and 2 are my thoughts, or rather, I write what I feel as I feel it, and 3 is more of a practical evaluation chart that assumes that I can do things under the supervision of a competent supervisor, or that I can do things independently."
+C-38,interviewer,"I see. Earlier, you said that they are contrary to your thoughts, but can you tell us more about the differences? What are these thoughts?"
+C-39,interviewee,"The first and second points are the ones I mentioned earlier, where specific goals are clearly stated. But for the third question, rather than intuition, I have to answer in the form of yes or no, whether I can really do it or not, so my thoughts specifically refer to my intuition."
+C-40,interviewer,I see. I see. Thank you very much. Is there anything else you would like to comment on regarding this evaluation form?
+C-41,interviewee,"I don't really have anything to add, because I don't have any complaints, but I have the impression that this is what they are doing."
+C-42,interviewer,Thank you very much. There is another evaluation sheet that I have asked the teacher to prepare. Please give us your general thoughts and comments on this one.
+C-43,interviewee,"I haven't had many questions or complaints about this one. It's a column where you can honestly check whether you have or have not met your goals, so it's easier for me to evaluate. That's about it."
+C-44,interviewer,"As I said before, what are the good points of this evaluation chart?"
+C-45,interviewee,"As I mentioned earlier, the attainment goal is indicated concretely, and since I can do this, I get a check here, or I get a check based on whether I did or did not do this aspect, so I think it is good that it is not so much influenced by the evaluator's thoughts, the evaluator's feeling, or individual differences of the evaluator."
+C-46,interviewer,"I see. On the other hand, is there anything that is troubling you, or anything that you would like to see done better?"
+C-47,interviewee,"What I find annoying is that this evaluation form is mostly about how you treat patients and their families, for example, how you use your words, whether you can accept the patient's thoughts, and so on. For example, some patients talk a lot, some don't talk at all, some are bedridden, some talk a lot with their families, and some rarely talk at all. Therefore, I feel that the evaluation of patients' families is quite unfair or unequal."
+C-48,interviewer,I see. Thank you very much. Do you have any further comments on this evaluation sheet itself?
+C-49,interviewee,"I don't really have any. In the latter part, it is always difficult for me to know what to write. I always wondered whether I should write about techniques or presentations or PowerPoint presentations, etc. In the end, I couldn't come up with anything specific. In the end, I don't really have a specific topic in mind, so that's a bit of a problem for me."
+C-50,interviewer,"I see. Thank you very much. Now, when you compare these two evaluation charts, what do you think are the differences between them?"
+C-51,interviewee,"I'm not really aware of the differences, but I think that the first, second, and third evaluation charts are more about skills, such as literature search skills, presentation skills, teamwork, and so on. It is a little strange to call it a medical point, but I feel that there are a lot of things like knowledge and skills. Knowledge, skills, and the person's response. I have the impression that this side is more specialized in communication and so on."
+C-52,interviewer,"I see, I see. Do you think there is any difference in the impact that these differences have on the evaluation charts?"
+C-53,interviewee,"I believe that both are important, so if we focus too much on communication, we will not be able to evaluate things like medical literature search or logical thinking, and they will be buried. What was your question again?"
+C-54,interviewer,Is there any difference in the impact of these two evaluation charts?
+C-55,interviewee,"Since it's an ex-post evaluation, I don't think it will have much of an impact on the residents themselves, but I do think it will change the way the instructors, or rather the evaluators, look at them."
+C-56,interviewer,"I see. In concrete terms, what kind of differences do you think will appear?"
+C-57,interviewee,"For example, people who talk a lot, and people who report and communicate well are given a good impression. I think it would not be good for the evaluator to focus only on communication, or on medical literature or logical thinking skills, even though the training has been well organized. If we evaluate them from that perspective, we may end up with a slightly biased education or training."
+C-58,interviewer,I see. Are there any further comments you would like to make after comparing the two?
+C-59,interviewee,"I don't have anything in particular. The evaluation chart here is more like a 4-point scale, like level 1 or 2, but this one is more like a yes-or-no scale, so it's different."
+C-60,interviewer,Do you think there is any difference in the impact between the 4-point evaluation and this method?
+C-61,interviewee,"To be honest, I don't think there's much of a difference in impact, but with the 4-point scale, I tend to choose the middle, so to a certain extent I can give a safe evaluation without making it too clear if it's good or bad. However, if a third party who doesn't know the resident at all sees the evaluation, they may not have a good impression of the resident. If a third party were to look at the evaluation, they might not have a good impression of the resident."
+C-62,interviewer,Does that mean that the residents themselves are not involved?
+C-63,interviewee,"Yes, it does. If a complete stranger, who is far away from the resident himself, sees it."
+C-64,interviewer,"No, you mean that there is a difference between being unable to do something and being a real resident?"
+C-65,interviewee,"No, I don't think that's the case, but I do think that if someone checks that you can't do something, there is a reason why you can't do it, so I don't really think that you are distant."
+C-66,interviewer,"I see. Thank you very much. In the future, when you make evaluations, is there anything you would like to see in future evaluations?"
+C-67,interviewee,"I think it would be better if the results of the feedback could be conveyed to the residents themselves in some way, so that they could learn about the feedback and take care of themselves in the future."
+C-68,interviewer,"Thank you very much. Then, as a general flow, first you share your position, and then your thoughts on the evaluation so far. You could offer a perspective from the eyes of others. Regarding this one, there are four levels overall, and they are divided into 1 and 2, which are given relatively intuitively, and 3, which is given based on what you have done or not done. I think the focus is on technology, and it's clear what you can and can't do here. Also, he said that there is not much room for intuition. He also said that it was difficult to write free descriptions. As for future evaluations, I think he told us that the feedback would be properly given to the residents. Looking back, is there anything you wish you could have left out or anything you wish you could have said?"
+C-69,interviewee,"No, not really."
+C-70,interviewer,"Yes, thank you very much."

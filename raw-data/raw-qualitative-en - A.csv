@@ -1,0 +1,74 @@
+ID,speaker,text
+A-3,interviewer,Please tell me again about your relationship with the residents here.
+A-4,interviewee,"For the patients that I am in charge of, I have them work under me to gather information about the patient, do a physical examination, do an assessment of the patient's treatment plan, and if they have any problems, I have them contact me right away and deal with them."
+A-5,interviewer,"Next, can you tell me how long you have been doing this kind of work? How long have you been here?"
+A-6,interviewee,It's been a year and nine months since I came here.
+A-7,interviewer,I'd like to ask you a few questions about evaluation in general. Please tell me about your image and way of thinking about evaluation.
+A-8,interviewee,Ideas?
+A-9,interviewer,Just an image.
+A-10,interviewee,Do you mean for residents?
+A-11,interviewer,I mean evaluation in general.
+A-12,interviewee,"Evaluation in general?　It's difficult to say. Well, I guess you could say it's a way to judge what a person has done. It's not a quantification, but it's an easy way to evaluate a person because it's easily quantified. When you actually see them. It's the same thing over and over again, but I think it's easier to understand. I think it would be easier to understand by using numerical values rather than just words."
+A-13,interviewer,What kind of involvement have you had in the evaluation process so far?
+A-14,interviewee,"You mean, not only in this hospital?"
+A-15,interviewer,"That's what I mean, my involvement in past evaluations."
+A-16,interviewee,"To be honest, this is the first time since I came to this hospital that I've been on the evaluation side."
+A-17,interviewer,What about the person being evaluated?
+A-18,interviewee,"When I was a student, of course, I had to take tests and so on. When I went around the polyclinics for student training, I was actually evaluated in that way. I've been on the receiving end a lot. When I came here, it was almost the first time that I became the one to evaluate."
+A-19,interviewer,What kind of evaluations have you received?
+A-20,interviewee,I don't know. I don't know how I was actually evaluated. I think they probably judged whether we passed or failed based on whether we exceeded a certain standard.
+A-21,interviewer,"First of all, I asked the teacher to give me both of these evaluations, and I'd like to ask her about them in detail from a rough impression. What is your rough impression of this evaluation?"
+A-22,interviewee,"At first, I wasn't sure what the words meant, or how to apply them. When I saw this, I had the impression that it would have been easier to understand if there had been an example like this."
+A-23,interviewer,What exactly do you mean when you say you don't know where to apply it?
+A-24,interviewee,"To be specific, for example, in the medical knowledge and problem-solving skills section, if you look at the level 3 section, for example, at the bottom of this section, where it says to develop and implement a medical treatment plan that takes into consideration various aspects of health and medical welfare, honestly speaking, as an evaluator, I don't know which of the following applies to the resident. To be honest, as the person who evaluates, I could not concretely relate to which one the resident was doing when he or she was doing this. I think it would have been better if we could have known, for example, which of the following would apply."
+A-25,interviewer,"By this, do you mean this kind of behavior or medical treatment?"
+A-26,interviewee,"Yes, that's right."
+A-27,interviewer,"For example, what kind of medical treatment would be appropriate for this kind of situation?"
+A-28,interviewee,"In the end, when it comes to evaluating medical knowledge and problem-solving ability, I still wonder what the bottom part, the part I mentioned earlier, is.　I was wondering what the bottom part was. In the end, the evaluation is based on the top two points, such as differentiation, initial response, information gathering, and decision making."
+A-29,interviewer,"Do you have any other thoughts on this? If it doesn't come to mind, please let me know."
+A-30,interviewee,"Well, I can't think of anything at the moment."
+A-31,interviewer,"You just gave me a critical opinion, but on the other hand, do you have any good points about this evaluation chart?"
+A-32,interviewee,"There were several items for each category, so it was easy to understand what I needed to do as a resident because it was divided into different categories."
+A-33,interviewer,What do you mean by these things?
+A-34,interviewee,"It's written in the first title, but it's also about response skills, communication, safety management, and so on. I think it was easier for us to understand because it was clearly stated, so we could focus on that and evaluate the resident doctors while watching them do it."
+A-35,interviewer,Is there anything else you would like to add?
+A-36,interviewee,I think it's fine.
+A-37,interviewer,"Now, please look at this evaluation chart and tell me what you think."
+A-38,interviewee,"I think this evaluation chart is easier to understand and to evaluate than the previous one. The reason is that I had the impression that the words were easier for me to understand than the previous one, so it was easier for me to evaluate."
+A-39,interviewer,"If you don't mind, could you give me an example or tell me specifically what it is?"
+A-40,interviewee,"For each item, each choice was concise and easy to understand."
+A-41,interviewer,Is there anything else that you noticed?
+A-42,interviewee,"There was also a section where you could write down what you liked about the program, what you wished you could have done better, and what you worked hard on. I thought it was very nice to be able to write down what I thought about each resident in words rather than just in numbers."
+A-43,interviewer,Is there anything else?
+A-44,interviewee,I think it's okay.
+A-45,interviewer,"As before, you pointed out some good points, but do you have any critical comments?"
+A-46,interviewee,"In terms of the fact that each resident has a place to write down what he or she thinks, I think it would be fairer to not be too specific in the evaluation."
+A-47,interviewer,Can you be a little more specific?
+A-48,interviewee,"I don't know if it's a good idea to be able to write about it, but I thought it would make it easier to create differences."
+A-49,interviewer,"Can you be a little more specific about what you mean by ""easy to make a difference""?"
+A-50,interviewee,"For example, depending on how you write it, you can give it a very low rating, but on the other hand, you can also give it a very high rating. In that sense, I got the impression that it is easy to make a difference because it is not quantified."
+A-51,interviewer,A free column?
+A-52,interviewee,"Yes, that's right."
+A-53,interviewer,Is it a problem that the differences become too large?
+A-54,interviewee,That's right. That's what I thought a little.
+A-55,interviewer,"I understand. As for the evaluation here, the good points are that the items are easy to choose and easy to understand. On the other hand, there are differences among the free comments. On the other hand, there is a concern that the free text may create too much difference. On the other hand, he said that he was concerned that the free-texting would create too much difference. In the national evaluation that I mentioned earlier, he said that he did not know where to put it, but on the other hand, he could see what kind of indicators were being emphasized. What kind of difference do you think these two evaluations will make for you as a teacher?"
+A-56,interviewee,"By doing these two, you mean?"
+A-57,interviewer,These two pieces.
+A-58,interviewee,"What difference?　Yes, two."
+A-59,interviewer,"Or rather, what kind of difference do you think will be created in the world using these two, in the world using these two?"
+A-60,interviewee,"It's not a difference, but by evaluating the two, the evaluation of the resident will be."
+A-61,interviewer,"So, first of all, what is the difference between this evaluation and this evaluation from your point of view?"
+A-62,interviewee,What was the difference in the clarity of the content of the items for me?
+A-63,interviewer,"I see. So, I'd like to ask you, for example, what kind of difference do you think there will be between programs that use this one and those that use this one? By using different evaluation tables."
+A-64,interviewee,"By using different evaluation tables?　There are differences in the ease and difficulty of understanding the contents (between global and local rubric). I'm not sure, but I think there are some things that are not being evaluated properly because people don't actually understand the contents and just give them a random rating."
+A-65,interviewer,You can see that here.
+A-66,interviewee,"Yes, that's right."
+A-67,interviewer,"If you are not evaluated in this way, does the result change in any way? Or rather, does it change anything?"
+A-68,interviewee,"Is this feedback given to the residents? If so, I think there is a possibility that different things are actually fed back to them. I think there is a difference."
+A-69,interviewer,"I see. If these evaluations were to get better in the future, what would you like to see as a teacher? What do you think would be good?"
+A-70,interviewee,"What would be good? I think this evaluation chart is for the entire evaluation, but I'm sure there is also data on what you would like to see done in each department. I don't know if that's good or bad, but I think it would be good if there was an evaluation chart for each department to see what they want us to do. I think it would be good if each department had its own evaluation chart. However, that would make it difficult to know if the entire department is being evaluated. I think it would be good to have such an evaluation."
+A-71,interviewer,"Thank you very much. Now, you mentioned that you have been on the receiving end of evaluations as a teacher, and that you were on the receiving end of evaluations when you were a student. This is the first time I've been involved in evaluation for about a year and nine months, and although it's difficult to understand the national evaluation here, it clearly shows what kind of indicators are expected. On the other hand, in this evaluation, it's easy to understand where to classify and it's easy to write free comments, but I'm worried that it will make too much difference. The difference is that if the evaluation is not easy to understand and is given in a random manner, the feedback given to the resident may be different from what was expected. In the future, I think it would be good if we could create evaluations that cover what we want each department to do. Is there anything that I have said that is wrong, or anything that you would like me to forget about?"
+A-72,interviewee,I'm fine.
+A-73,interviewer,Is there anything else you want to say?
+A-74,interviewee,No problem.
+A-75,interviewee,
